@@ -5,7 +5,7 @@ description = ""
 authors = ["Samir Azzouz <s.azzouz97@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.6, <3.8"
 jupyterlab = "^3.0.5"
 pandas = "^1.2.1"
 tensorflow = "^2.4.1"
