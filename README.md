@@ -7,4 +7,4 @@ flask run --port 8085
 
 # NOTE:
 
-The model code provided in this repository is for showcasing purposes and does not include the full data pipeline which was constructed in a private Google Colab document. Please contact me at zceesaz@ucl.ac.uk for access to this document.
+The 'src/full_pipeline_script.py' file houses the exported Google Colab document used for development in this assignment. Please contact me at zceesaz@ucl.ac.uk for access to this document if issues are experienced.
